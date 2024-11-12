@@ -16,9 +16,11 @@ Atualmente continuo meus estudos em DevOps e estou buscando uma nova colocação
 
 #
 ### Certificações
-<img src="./aws-certified-cloud-practitioner.png" alt="descrição da imagem" width="96" height="96">
-<img src="./aws-certified-ai-practitioner.png" alt="descrição da imagem" width="96" height="96">
-<img src="./aws-certified-ai-practitioner-early-adopter.png" alt="descrição da imagem" width="96" height="96">
+<p>
+  <img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="96" height="96">
+  <img src="./aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="96" height="96">
+  <img src="./aws-certified-ai-practitioner-early-adopter.png" alt="AWS Certified AI Practitioner Early Adopter" width="96" height="96">
+</p>
 
 #
 ## Projetos:
