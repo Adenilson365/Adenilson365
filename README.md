@@ -4,9 +4,9 @@
 
 Estou no último ano do curso de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/).
 
-Atuo como Trainee DevOps na empresa [Compass UOL](https://compass.uol/en/home/), aprendendo a desenvolver soluções em nuvem altamente resilientes, seguras e disponíveis, utilizando boas práticas de arquitetura e tecnologias de DevOps. 
+Atuo como Trainee DevOps na empresa [Compass UOL](https://compass.uol/en/home/), aprendendo a desenvolver soluções em nuvem resilientes, seguras e disponíveis, utilizando boas práticas de arquitetura e tecnologias de DevOps. 
 
-Atualmente continuo meus estudos em DevOps e estou buscando uma nova colocação na área.
+
 
 #
 ### Tecnologias que usei no meu dia a dia como Estagiário Devops e _contínuo estudando_:
