@@ -30,22 +30,5 @@ Atuo como Trainee DevOps na empresa [Compass UOL](https://compass.uol/en/home/),
 </p>
 
 #
-## Projetos:
-
-### Projeto de Arquitetura Cloud do Estágio na Compass - [CLIQUE](https://github.com/Adenilson365/Projeto-Final-CompassUOL) para Abrir o Repositório
-
-- **Descrição**: Criar uma arquitetura para um e-commerce migrando de On-premisse para Cloud
-- **Habilidades** : AWS Cloud - AWS Well-Architected Framework - Boas Práticas DevOps  
-
-### Projeto de Linux do Estágio na Compass - [CLIQUE](https://github.com/Adenilson365/atividade1_Estagio_Compass) para Abrir o Repositório
-  - **Descrição**: Subir servidor apache na Aws Ec2 e fazer a coleta e armazenamento de logs para um NFS usando Shell Script
-  - **Habilidades**: Cloud AWS - NFS - Shell Script
-
-### Projeto de Docker + AWS  do Estágio na Compass - [CLIQUE](https://github.com/Adenilson365/atividade2-estagio-Compass) para Abrir o Repositório
-  - **Descrição**: Subir stack wordpress de forma automatizada na AWS usando shellScript, com **persistência de Volume e Dados** - Após entrega aprimorei com **Terraform**
-  - **Habilidades**: **Docker** - **Terraform** - Cloud AWS - NFS - Shell Script -   Docker-Compose -  Gerenciamento de credenciais **AWS Secrets** - Banco de dados **RDS MySQL**
-
-### Meu Catalogo DevOps [CLIQUE](https://github.com/Adenilson365/catalogo) para Abrir o Repositório
-- **Descrição**: Armazenar códigos prontos de ambientes de estudo
-- **Habilidades**: Docker - Terraform - Kubernetes - Cloud  e demais tecnologias DevOps
+## Projetos abaixo ⤵⤵
 
