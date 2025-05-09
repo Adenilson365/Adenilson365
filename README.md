@@ -30,7 +30,7 @@ Atuo como Trainee DevOps na empresa [Compass UOL](https://compass.uol/en/home/),
   <img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="96" height="96">
   <img src="./aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="96" height="96">
   <img src="./aws-certified-ai-practitioner-early-adopter.png" alt="AWS Certified AI Practitioner Early Adopter" width="96" height="96">
-    <img src="./compassIA.png" alt="AWS Certified AI Practitioner Early Adopter" width="" height="96">
+  <img src="./compassIA.png" alt="AWS Certified AI Practitioner Early Adopter" width="" height="96">
 </p>
 
 #
