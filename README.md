@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adenilson Konzelmann <Dê> 🤓
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenilson-konzelmann/)
+[![](https://img.shields.io/badge/portfolio-0077B7?style=for-the-badge&logo=portfolio&logoColor=white)](http://knz.dev.br/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenilson-konzelmann/) 
 
 Formado em Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/).
 
@@ -34,5 +34,6 @@ Atuo como Trainee DevOps na empresa [Compass UOL](https://compass.uol/en/home/),
 </p>
 
 #
-## Projetos abaixo ⤵⤵
+###
+## Além do meu [Portfólio](http://knz.dev.br/), abaixo estão meus principais Projetos ⤵⤵
 
