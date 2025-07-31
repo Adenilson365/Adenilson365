@@ -2,8 +2,8 @@
 [![](https://img.shields.io/badge/portfolio-0077B7?style=for-the-badge&logo=portfolio&logoColor=white)](http://knz.dev.br/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenilson-konzelmann/) 
 
-Formado em Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/).
-Aluno da Formação DevopsPro - Fabricio Veronez
+- Formado em Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/).
+- Aluno da Formação DevopsPro - Fabricio Veronez
 
 Atuo como Analista Noc na empresa [Compass UOL](https://compass.uol/en/home/), em ambientes cloudNative, atuando em análise de incidentes.  
 
