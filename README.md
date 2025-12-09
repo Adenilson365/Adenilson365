@@ -34,7 +34,6 @@ Atuo como Analista Noc na empresa [Compass UOL](https://compass.uol/en/home/), e
   <img src="./aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="96" height="96">
   <img src="./aws-certified-ai-practitioner-early-adopter.png" alt="AWS Certified AI Practitioner Early Adopter" width="96" height="96">
   <img src="./OCI-foundational-IA.jpeg" alt="OCI IA Foundational" width="" height="96">
-  <img src="./compassIA.png" alt="AWS Certified AI Practitioner Early Adopter" width="" height="96">
 </p>
 
 #
