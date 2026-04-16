@@ -5,13 +5,13 @@
 - Formado em Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/).
 - Aluno da Formação DevopsPro - Fabricio Veronez
 
-Atuo como Analista Noc na empresa [Compass UOL](https://compass.uol/en/home/), em ambientes cloudNative, atuando em análise de incidentes.  
+Atuo como Analista DevOps na empresa [Compass UOL](https://compass.uol/en/home/), em ambientes cloudNative, atuando em análise de incidentes.  
 
 - Práticas que tenho contato no meu dia a dia  :
-  - Troubleshooting em ambientes Kubernetes
-  - Manutenção de pipelines de CICD
+  - Troubleshooting em ambientes Kubernetes ( cloud e On-premises em cenários multi-cluster)
+  - Manutenção de pipelines de CICD, com ferramentas jenkins, github Actions, cloudBuild.
   - Versionamento com Git (gitflow e gitOps) e BitBucket 
-  - Observabilidade com Prometheus, Grafana, Dynatrace, Datadog
+  - Observabilidade com Prometheus, Grafana, LGTM, Otel, Datadog
   - Além das boas práticas da cultura DevOps
 
 
