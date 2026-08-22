@@ -30,12 +30,12 @@ Atuo como Analista DevOps na empresa [Compass UOL](https://compass.uol/en/home/)
 ### Certificações
 <p>
   <img src="./cka-certified-kubernetes-administrator.png" alt="Certified Kubernetes Administrator (CKA)" width="96" height="96">
-  <img src="./professional-cloud-architect-certification.png" alt="Google Professional Cloud Architect (PCA)" width="96" height="96">
-  <img src="./associate-cloud-engineer-certification.png" alt="Google Associate Cloud Engineer (ACE)" width="96" height="96">
+  <img src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="96" height="96">
   <img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="96" height="96">
   <img src="./aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="96" height="96">
   <img src="./aws-certified-ai-practitioner-early-adopter.png" alt="AWS Certified AI Practitioner Early Adopter" width="96" height="96">
-  <img src="./OCI-foundational-IA.jpeg" alt="OCI IA Foundational" width="" height="96">
+  <img src="./professional-cloud-architect-certification.png" alt="Google Professional Cloud Architect (PCA)" width="96" height="96">
+  <img src="./associate-cloud-engineer-certification.png" alt="Google Associate Cloud Engineer (ACE)" width="96" height="96">
 </p>
 
 #
