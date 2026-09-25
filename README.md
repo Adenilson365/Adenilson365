@@ -4,7 +4,7 @@
 
 Sou formado em **Engenharia de Software** e atuo com **DevOps e sustentação de ambientes Cloud Native**, com experiência em Kubernetes, Linux, Cloud, Infraestrutura como Código, CI/CD e Observabilidade.
 
-Atualmente trabalho na **Compass UOL**, atuando em ambientes multicloud e on-premises, com foco em troubleshooting, resolução de incidentes, análise de causa-raiz, mudanças em produção e evolução de ambientes.
+Atualmente trabalho na **[AirCompany.ai](https://aircompany.ai/)**, atuando em ambientes multicloud e on-premises, com foco em troubleshooting, resolução de incidentes, análise de causa-raiz, mudanças em produção e evolução de ambientes.
 
 Também desenvolvo projetos e laboratórios voltados a **Kubernetes, AWS, GCP, Terraform, GitOps, automação e arquitetura Cloud Native**.
 
